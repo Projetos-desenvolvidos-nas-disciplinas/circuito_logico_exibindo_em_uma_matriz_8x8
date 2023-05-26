@@ -1,1 +1,3 @@
-# circuito_logico_exibindo_em_uma_matriz_8x8
+# Circuito lógico exibindo em uma matriz 8 x 8
+
+Projetar um circuito lógico para solucionar o problema da exibição de caracteres numéricos em uma matriz de leds 8 x 8.  O circuito deverá se utilizar do efeito POV (Persistence of  vision)  para  acionar  os  leds  da  matriz  de  acordo  com  os  caracteres numéricos  em  binário. As entradas do circuito são o valor binário (4 bits) a ser exibido e qual coluna será apresentada (3 bits).  O valor será definido através das chaves SW [3:0] e a coluna através dos pushbuttons KEY [2:0]. Já as saídas serão direcionadas para os LEDR [7:0] e LEDG [7:0].
